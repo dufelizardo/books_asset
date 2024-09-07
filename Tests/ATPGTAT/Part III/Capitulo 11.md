@@ -1,23 +1,4 @@
 # Capítulo 11
-```tinymind
-Criticar Produto Usando Testes Voltados para a Tecnologia
-   Testes de Carga
-      Escalabilidade
-      Desempenho e Carga
-      Ferramentas de Desempenho e Carga
-      Referência (Baseline)
-      Gerenciamento de Memória
-   Testes de "ilidades"
-      Segurança
-      Manutenibilidade
-      Interoperabilidade
-      Compatibilidade
-      Confiabilidade
-      Instalabilidade
-   O Que É?
-   Quem Faz?
-   Quando Você Faz?
-```
 
 ### Criticando o Produto Usando Testes Voltados para a Tecnologia
 
