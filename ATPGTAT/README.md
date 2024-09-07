@@ -49,4 +49,3 @@ Uma história de usuário é uma descrição breve da funcionalidade do ponto de
 
 ---
 
-Sinta-se à vontade para modificar e adaptar o README conforme necessário para se adequar ao estilo e às necessidades específicas do seu livro.
